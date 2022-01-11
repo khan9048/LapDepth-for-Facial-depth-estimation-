@@ -62,3 +62,6 @@ $ Use the images and demo.py for point cloud
 $ Change the paths in the demo.py if different 
 $ python demo.py 
 ```
+## Citation
+If you find this work useful for your research, please consider citing our paper:
+```
