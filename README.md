@@ -56,3 +56,9 @@ Once the preparation steps completed, you can evaluate using following commands.
 ```
 $ python eval_with_pngs.py 
 ```
+## Point cloud generation
+$ Go to the point cloud directory  
+$ Use the images and demo.py for point cloud 
+$ Change the paths in the demo.py if different 
+$ python demo.py 
+```
