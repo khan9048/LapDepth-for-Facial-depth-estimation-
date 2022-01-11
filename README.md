@@ -19,7 +19,7 @@ cuDNN (if CUDA available)
 ```
 ## Pretrained model
 
-download the pre-trained model and keep in the FaceDepth directory:
+download the pre-trained model and keep in the same directory:
 
 https://nuigalwayie-my.sharepoint.com/:u:/r/personal/f_khan4_nuigalway_ie/Documents/PhD_projects/PhD_Papers/FACIAL_DEPTH_PAPER/epoch_25_loss_3.2482_1.pkl?csf=1&web=1&e=9LXlEG
 
@@ -28,3 +28,13 @@ https://nuigalwayie-my.sharepoint.com/:u:/r/personal/f_khan4_nuigalway_ie/Docume
 We prepared the dataset for training and testing<br/>
 contact me on the following email: f.khan4@nuigalway.ie for the complete dataset, I will provide the download link <br/>
 
+## Testing
+First make sure that you have some images (RGB and depth)
+```shell
+$ Change the path in the demo.py
+$ Name a folder that you want to save the predicted results (images)  
+```
+Once the preparation steps completed, you can test using following commands.
+```
+$ python demo.py
+```
