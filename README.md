@@ -38,3 +38,14 @@ Once the preparation steps completed, you can test using following commands.
 ```
 $ python demo.py
 ```
+## Training
+Once the dataset download process completed, please make sure unzip all the data into a new folder and follow the following steps:
+```shell
+$ Download the .csv or .txt files
+$ Change the paths in the option.py  
+```
+Once the preparation steps completed, you can train using following commands.
+```
+$ python train.py 
+```
+
