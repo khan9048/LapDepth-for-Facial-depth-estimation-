@@ -48,4 +48,11 @@ Once the preparation steps completed, you can train using following commands.
 ```
 $ python train.py 
 ```
-
+## Evaluation
+$ Change the paths in the eval_with_pngs.py  
+$ Use the ground truth depth and predicted depth images for evaluation
+```
+Once the preparation steps completed, you can evaluate using following commands.
+```
+$ python eval_with_pngs.py 
+```
