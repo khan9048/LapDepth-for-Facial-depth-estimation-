@@ -26,7 +26,10 @@ https://nuigalwayie-my.sharepoint.com/:u:/r/personal/f_khan4_nuigalway_ie/Docume
 ## Prepare Dataset for training & Testing 
 
 We prepared the dataset for training and testing<br/>
-contact me on the following email: f.khan4@nuigalway.ie for the complete dataset, I will provide the download link <br/>
+https://ieee-dataport.org/documents/c3i-synthetic-face-depth-dataset <br/>
+
+## Virtual Human, Blender, Full Human Model, Avatar Dataset, 3D Data, 3D Full Body Models can be find here 
+https://ieee-dataport.org/documents/c3i-synthetic-human-dataset <br/>
 
 ## Testing
 First make sure that you have some images (RGB and depth)
